@@ -19,6 +19,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moooninjune&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![ezgif-2-bf8befb9ca](https://github.com/user-attachments/assets/b1313231-45fa-4f01-8a86-fe6e0d09c719)
 
-[![](https://visitcount.itsvg.in/api?id=moooninjune&icon=9&color=10)](https://visitcount.itsvg.in)
+![ezgif-2-8f7d30fe6a](https://github.com/user-attachments/assets/bf9cc5cb-c560-4b48-967f-3e2035446c58)
