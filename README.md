@@ -14,13 +14,5 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=moooninjune&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moooninjune&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![ezgif-2-bf8befb9ca](https://github.com/user-attachments/assets/b1313231-45fa-4f01-8a86-fe6e0d09c719)
 
----
-![ezgif-2-8d70ebc6c0](https://github.com/user-attachments/assets/503f77f9-034a-4976-a054-9b8bdc2569d0)
-
-[![](https://visitcount.itsvg.in/api?id=moooninjune&icon=9&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
